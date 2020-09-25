@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## `Project Description `
+The project is built with funcitonal components using react-hooks , material-UI for design and the app is hosted on : https://todo-app-cp-5173d.web.app/ .
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
